@@ -1,5 +1,13 @@
 {
-  "tittle":"23"
+	"ID":"id_1",
+	"Description":"Menu icon isn't displayed in header",
+	"STR":{
+		"step 1":"open url",
+		"step 2":"scroll page down",
+		"step 3":"scroll page up to header"
+	},
+	"Expected result":"Page is loaded. Menu icon is displayed in header",
+	"Actual result":"Page is loaded. Menu icon is not displayed in header"
 
 
 
